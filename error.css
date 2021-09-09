@@ -1,0 +1,37 @@
+html { height: 100%; }
+body {
+color: #444; 
+margin:0;
+font: normal 14px/20px Arial, Helvetica, sans-serif; 
+height:100%; 
+background-color: #fff;
+}
+
+.container {
+height:auto; 
+min-height:100%;
+}
+
+.content {
+text-align: center; 
+width:800px; 
+margin-left: -400px; 
+position:absolute; 
+top: 30%; 
+left:50%;
+}
+
+.title {
+margin:0; 
+font-size:150px; 
+line-height:150px; 
+font-weight:bold;
+}
+
+.info {
+margin-top:20px;
+font-size: 30px;
+}
+p {
+font-style: italic;
+}
