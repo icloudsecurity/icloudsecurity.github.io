@@ -15,3 +15,13 @@ hr {
 #hero { width: 100%; }
 
 .hero-container{}
+
+.link{
+  color: #3498DB;
+  text-decoration: none;
+}
+
+.link:hover{
+  color: #2874A6;
+  text-decoration: none;
+}
