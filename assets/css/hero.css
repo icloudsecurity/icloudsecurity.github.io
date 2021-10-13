@@ -4,6 +4,8 @@ h1 { font-weight: 300; }
 h3 { font-weight: bold; }
 p  { font-style: italic; }
 
+img { width: 100%; }
+
 hr {
   display: block;
   height: 1px;
@@ -24,4 +26,12 @@ hr {
 .link:hover{
   color: #2874A6;
   text-decoration: none;
+}
+
+.heropic-respon{
+  
+}
+
+.hero-mess{
+
 }
