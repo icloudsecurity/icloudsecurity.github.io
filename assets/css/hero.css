@@ -32,6 +32,10 @@ hr {
 
 }
 
+.hero-content{
+  text-align: center;
+}
+
 .hero-mess{
   margin-left: auto;
   margin-right: auto;
