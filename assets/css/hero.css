@@ -29,7 +29,9 @@ hr {
 }
 
 .heropic-respon{
-  width: 100%;
+  display: block;
+  max-width: 100%;
+  height: auto;
 }
 
 .hero-content{
