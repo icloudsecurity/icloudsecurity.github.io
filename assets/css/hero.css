@@ -4,8 +4,6 @@ h1 { font-weight: 300; }
 h3 { font-weight: bold; }
 p  { font-style: italic; }
 
-img { width: 100%; }
-
 hr {
   display: block;
   height: 1px;
@@ -29,8 +27,7 @@ hr {
 }
 
 .heropic-respon{
-  width: 300px;
-  height: 300px;
+
 }
 
 .hero-mess{
