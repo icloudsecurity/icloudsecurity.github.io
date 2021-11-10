@@ -15,4 +15,5 @@ text-shadow: 0 0 5px #000;
 font-style: italic;
 border: 1px solid aqua;
 border-radius: 5px;
+letter-spacing: 0.3rem;
 }
