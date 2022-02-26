@@ -18,6 +18,13 @@ border-radius: 5px;
 letter-spacing: 0.3rem;
 }
 .dashdown { font-weight: bold; }
+hr{
+  display: block;
+  height: 1px;
+  border: 0;
+  border-top: 1px solid grey;
+  padding: 0;
+}
 .ini-worktime {
   margin: 2px auto;
 }
