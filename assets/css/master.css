@@ -18,3 +18,6 @@ border-radius: 5px;
 letter-spacing: 0.3rem;
 }
 .dashdown { font-weight: bold; }
+hr {
+  margin: 2px auto;
+}
