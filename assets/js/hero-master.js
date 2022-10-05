@@ -49,7 +49,7 @@ document.addEventListener("keydown", e => {
 		e.key.toLowerCase() === "b"
 	  ){
 			document.body.style.color = "#000000";
-			document.body.style.backgroundColor = "#ffffff";
+			document.body.style.backgroundColor = "#eeeeee";
 	}
 	
 });
