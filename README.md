@@ -1,3 +1,4 @@
+<h1>LEHRESJON.SE</h1>
 You can use these keyboard shortcuts if you want to use my site flexibly & faster.
 
 alt + h = Sending you to my home page.
