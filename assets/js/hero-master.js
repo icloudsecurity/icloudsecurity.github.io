@@ -21,7 +21,7 @@ document.addEventListener("keydown", e => {
 		e.key.toLowerCase() === "b"
 		&& e.altKey
 	  ){
-			window.location = "https://lehresjon.se/blog"
+			window.location = "https://blog.lehresjon.se"
 	}
 	
 	if(
